@@ -22,18 +22,18 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Data Analytics and Business Intelligence solutions**
-- 📊 Skilled in **Dashboard Development, KPI Reporting, ETL, and Data Visualization**
-- 💡 Passionate about solving business problems through data-driven insights
-- ⚡ I enjoy transforming raw datasets into actionable insights and decision-making tools
+I'm **Monalika Pingale**, a Computer Engineering student and aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter business decisions.
 
----
+My journey in data began with curiosity about how numbers reveal patterns, trends, and opportunities. Since then, I’ve built hands-on experience in **Data Analytics, Business Intelligence, Dashboard Development, KPI Reporting, and ETL workflows** using tools like **Python, SQL, Power BI, Excel, and PostgreSQL**.
 
-## 📌 Career Focus
+Through academic projects and industry experience as a **Research Analyst Intern at RE Journal**, I have worked with large datasets ranging from **10K+ to 200K+ records**, performing data cleaning, exploratory analysis, visualization, and insight generation to solve real-world business problems.
 
-✔ **Current Focus:** Data Analytics & Business Intelligence  
-✔ **Core Expertise:** SQL, Power BI, Python, ETL, KPI Reporting  
-✔ **Learning Next:** Data Engineering & Data Science  
+I enjoy building interactive dashboards, uncovering hidden patterns in data, and converting complex datasets into clear, actionable stories for decision-making.
+
+While **Data Analytics and Business Intelligence** remain my core strengths today, I am continuously expanding my knowledge in **Data Engineering and Data Science**, exploring scalable data pipelines, cloud data platforms, and machine learning to strengthen my end-to-end data expertise.
+
+⚡ I believe great analysis is not just about numbers — it's about asking the right questions and turning insights into impact.
+
 
 ---
 
