@@ -3,7 +3,7 @@
 
 # 👋 Hey there! I'm Monalika Pingale
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;200K%2B+records+analyzed+across+projects;Research+Analyst+Intern+%40+RE+Journal;Learning+Data+Engineering+%26+Data+Science;Turning+data+into+business+decisions+📊" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;200K%2B+Records+Analyzed+Across+Projects;Turning+Data+Into+Business+Decisions+📊" alt="Typing SVG" />
 
 ### 📊 Data Analyst | 📈 Business Intelligence | 🚀 Analytics Learner
 
@@ -22,20 +22,17 @@
 
 ## 🚀 About Me
 
-I'm **Monalika Pingale**, a Computer Engineering student and aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive smarter business decisions.
+I'm **Monalika Pingale**, a Computer Engineering student and aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
 
-My journey in data began with curiosity about how numbers reveal patterns, trends, and opportunities. Since then, I’ve built hands-on experience in **Data Analytics, Business Intelligence, Dashboard Development, KPI Reporting, and ETL workflows** using tools like **Python, SQL, Power BI, Excel, and PostgreSQL**.
+I work with **Python, SQL, Power BI, Excel, and PostgreSQL** to perform data analysis, build interactive dashboards, design ETL workflows, and solve real-world business problems using data.
 
-Through academic projects and industry experience as a **Research Analyst Intern at RE Journal**, I have worked with large datasets ranging from **10K+ to 200K+ records**, performing data cleaning, exploratory analysis, visualization, and insight generation to solve real-world business problems.
+Through academic projects and internship experience, I have worked with datasets ranging from **10K+ to 200K+ records**, performing data cleaning, exploratory analysis, visualization, and KPI reporting.
 
-I enjoy building interactive dashboards, uncovering hidden patterns in data, and converting complex datasets into clear, actionable stories for decision-making.
-
-While **Data Analytics and Business Intelligence** remain my core strengths today, I am continuously expanding my knowledge in **Data Engineering and Data Science**, exploring scalable data pipelines, cloud data platforms, and machine learning to strengthen my end-to-end data expertise.
+While **Data Analytics and Business Intelligence** are my current strengths, I am continuously exploring **Data Engineering and Data Science** to build stronger end-to-end data expertise.
 
 ⚡ I believe great analysis is not just about numbers — it's about asking the right questions and turning insights into impact.
 
 
----
 
 ## 🛠️ Skills & Tech Stack
 
@@ -70,25 +67,7 @@ While **Data Analytics and Business Intelligence** remain my core strengths toda
 
 </div>
 
----
 
-## 📈 Project Highlights
-
-- 📦 Analyzed **200K+ records** in FoodPulse Analytics dashboard
-- 🏢 Processed **10K+ real-estate records** during Research Analyst Internship
-- ⚙ Built ETL pipeline processing **10K+ records** using Python & PostgreSQL
-- 📊 Developed **3+ interactive BI dashboards** for business insights
-
----
-
-## 🏆 Achievements
-
-- 📝 Published an **IEEE Research Paper**
-- 🏢 Worked as **Research Analyst Intern @ RE Journal**
-- 📢 Deputy Media & Communication Lead at Android Development Club
-- 🏅 Participated in AI, FinTech & Data Analytics hackathons
-
----
 
 ## 📈 GitHub Stats
 
