@@ -32,7 +32,17 @@ While **Data Analytics and Business Intelligence** are my current strengths, I a
 
 ⚡ I believe great analysis is not just about numbers — it's about asking the right questions and turning insights into impact.
 
+---
 
+## ⭐ Core Expertise
+
+<div align="center">
+
+SQL • Power BI • Python • Excel • KPI Reporting • ETL • Data Visualization
+
+</div>
+
+---
 
 ## 🛠️ Skills & Tech Stack
 
@@ -67,7 +77,20 @@ While **Data Analytics and Business Intelligence** are my current strengths, I a
 
 </div>
 
+---
 
+## 📈 Featured Projects
+
+- 📦 **FoodPulse Analytics** — Analyzed 200K+ food delivery records using Power BI, SQL & DAX  
+  🔗 REPLACE_WITH_REPO_LINK
+
+- 🏢 **Real Estate Market Analysis** — Processed 10K+ records to identify pricing trends and market insights  
+  🔗 REPLACE_WITH_REPO_LINK
+
+- ⚙ **Live Business Analytics Platform** — Built ETL pipeline and real-time KPI dashboards using Python & PostgreSQL  
+  🔗 REPLACE_WITH_REPO_LINK
+
+---
 
 ## 📈 GitHub Stats
 
@@ -101,3 +124,4 @@ While **Data Analytics and Business Intelligence** are my current strengths, I a
 ⭐ If you find my work helpful, consider starring a repository!
 
 </div>
+```
