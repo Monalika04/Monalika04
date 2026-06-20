@@ -1,14 +1,15 @@
+
 <div align="center">
 
 # 👋 Hey there! I'm Monalika Pingale
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;200K%2B+records+analyzed+%7C+3+BI+dashboards+built;Research+Analyst+Intern+%40+RE+Journal;IEEE+Published+Researcher+%F0%9F%93%9D;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;200K%2B+records+analyzed+across+projects;Research+Analyst+Intern+%40+RE+Journal;Learning+Data+Engineering+%26+Data+Science;Turning+data+into+business+decisions+📊" alt="Typing SVG" />
 
 ### 📊 Data Analyst | 📈 Business Intelligence | 🚀 Analytics Learner
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
-📍 Mumbai, India &nbsp;·&nbsp; 🎓 B.E. Computer Engineering (CGPA 8.02) &nbsp;·&nbsp; 🌐 Open to Data Analyst roles
+📍 Mumbai, India • 🎓 B.E. Computer Engineering (CGPA: 8.02) • 🌐 Open to Data Analyst Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monalikapingale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monalikapingale480@gmail.com)
@@ -22,10 +23,17 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **Data Analytics and Business Intelligence solutions**
-- 📊 Skilled in **Dashboard Development, KPI Reporting, ETL & Data Visualization**
-- 🌱 Exploring **Data Engineering and Data Science** to expand my analytical capabilities -
-- 💡 Passionate about solving real-world business problems using data -
+- 📊 Skilled in **Dashboard Development, KPI Reporting, ETL, and Data Visualization**
+- 💡 Passionate about solving business problems through data-driven insights
 - ⚡ I enjoy transforming raw datasets into actionable insights and decision-making tools
+
+---
+
+## 📌 Career Focus
+
+✔ **Current Focus:** Data Analytics & Business Intelligence  
+✔ **Core Expertise:** SQL, Power BI, Python, ETL, KPI Reporting  
+✔ **Learning Next:** Data Engineering & Data Science  
 
 ---
 
@@ -52,36 +60,33 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ☁️ Cloud & Version Control
+### ☁️ Cloud & Data Platforms
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6F2DBD?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
+---
 
+## 📈 Project Highlights
+
+- 📦 Analyzed **200K+ records** in FoodPulse Analytics dashboard
+- 🏢 Processed **10K+ real-estate records** during Research Analyst Internship
+- ⚙ Built ETL pipeline processing **10K+ records** using Python & PostgreSQL
+- 📊 Developed **3+ interactive BI dashboards** for business insights
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-- 📝 **IEEE Research Paper** — AI-driven urban grievance management & intelligent plan approval systems
-- 🥇 **IBM SkillsBuild** Data Analytics Certification — Grade A+
-- 🏢 **Deloitte** Data Analytics Virtual Internship
-- 🐍 **HackerRank** Python Certification
-- 📢 Deputy Media & Communication Lead — Android Development Club
-- 🏅 Participated in AI, FinTech & Data Analytics hackathons and technical competitions
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Monalika04/MyResume/main/Monalika_Resume.pdf)
-
-</div>
+- 📝 Published an **IEEE Research Paper**
+- 🏢 Worked as **Research Analyst Intern @ RE Journal**
+- 📢 Deputy Media & Communication Lead at Android Development Club
+- 🏅 Participated in AI, FinTech & Data Analytics hackathons
 
 ---
 
@@ -94,8 +99,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monalika04&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Monalika04&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Monalika04&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -114,8 +117,9 @@
 
 <div align="center">
 
-### 💡 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+### 💡 *Turning data into insights, and insights into impact.*
 
-⭐ If you find my work helpful, consider starring a repo!
+⭐ If you find my work helpful, consider starring a repository!
 
 </div>
+
