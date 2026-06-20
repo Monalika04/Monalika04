@@ -21,12 +21,11 @@
 
 ## 🚀 About Me
 
-- 🔭 **Research Analyst Intern @ [RE Journal](YOUR_COMPANY_LINK)** — analyzing 10K+ real-estate records with Power BI, SQL & Python
-- 📊 Built **3 end-to-end BI dashboards** covering 200K+ food delivery, 9K+ ER patient, and real-time business KPIs
-- 📝 Published **IEEE Research Paper** on AI-driven urban grievance management & intelligent plan approval systems
-- ☁️ Certified in **IBM Data Analytics (Grade A+)**, Deloitte Virtual Internship & HackerRank Python
-- 🌱 Currently exploring **Data Engineering** — Apache Spark · Azure Data · dbt
-- ⚡ I believe the best dashboard is the one that answers a question before it's asked
+- 🔭 Currently building **Data Analytics and Business Intelligence solutions**
+- 📊 Skilled in **Dashboard Development, KPI Reporting, ETL & Data Visualization**
+- 🌱 Exploring **Data Engineering and Data Science** to expand my analytical capabilities -
+- 💡 Passionate about solving real-world business problems using data -
+- ⚡ I enjoy transforming raw datasets into actionable insights and decision-making tools
 
 ---
 
@@ -61,18 +60,7 @@
 
 </div>
 
----
 
-## 📚 Currently Learning
-
-<div align="center">
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-Learning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Learning-blue?style=for-the-badge)
-![Azure Data](https://img.shields.io/badge/Azure_Data_Engineering-Learning-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-Learning-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-</div>
 
 ---
 
