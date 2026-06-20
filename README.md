@@ -22,27 +22,14 @@
 
 ## 🚀 About Me
 
-I'm **Monalika Pingale**, a Computer Engineering student and aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+- 👩‍💻 Computer Engineering student passionate about **Data Analytics & Business Intelligence**
+- 📊 Skilled in **Python, SQL, Power BI, Excel, ETL, KPI Reporting & Data Visualization**
+- 📈 Worked with datasets ranging from **10K+ to 200K+ records** across analytics projects
+- 🏢 Former **Research Analyst Intern @ RE Journal**, delivering market-driven insights
+- 🌱 Currently exploring **Data Engineering & Data Science** to build end-to-end data expertise
+- ⚡ I enjoy transforming raw data into actionable business decisions
 
-I work with **Python, SQL, Power BI, Excel, and PostgreSQL** to perform data analysis, build interactive dashboards, design ETL workflows, and solve real-world business problems using data.
 
-Through academic projects and internship experience, I have worked with datasets ranging from **10K+ to 200K+ records**, performing data cleaning, exploratory analysis, visualization, and KPI reporting.
-
-While **Data Analytics and Business Intelligence** are my current strengths, I am continuously exploring **Data Engineering and Data Science** to build stronger end-to-end data expertise.
-
-⚡ I believe great analysis is not just about numbers — it's about asking the right questions and turning insights into impact.
-
----
-
-## ⭐ Core Expertise
-
-<div align="center">
-
-SQL • Power BI • Python • Excel • KPI Reporting • ETL • Data Visualization
-
-</div>
-
----
 
 ## 🛠️ Skills & Tech Stack
 
@@ -77,20 +64,6 @@ SQL • Power BI • Python • Excel • KPI Reporting • ETL • Data Visuali
 
 </div>
 
----
-
-## 📈 Featured Projects
-
-- 📦 **FoodPulse Analytics** — Analyzed 200K+ food delivery records using Power BI, SQL & DAX  
-  🔗 REPLACE_WITH_REPO_LINK
-
-- 🏢 **Real Estate Market Analysis** — Processed 10K+ records to identify pricing trends and market insights  
-  🔗 REPLACE_WITH_REPO_LINK
-
-- ⚙ **Live Business Analytics Platform** — Built ETL pipeline and real-time KPI dashboards using Python & PostgreSQL  
-  🔗 REPLACE_WITH_REPO_LINK
-
----
 
 ## 📈 GitHub Stats
 
@@ -99,8 +72,6 @@ SQL • Power BI • Python • Excel • KPI Reporting • ETL • Data Visuali
 ![Monalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monalika04&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monalika04&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Monalika04&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -121,7 +92,6 @@ SQL • Power BI • Python • Excel • KPI Reporting • ETL • Data Visuali
 
 ### 💡 *Turning data into insights, and insights into impact.*
 
-⭐ If you find my work helpful, consider starring a repository!
+⭐ Thanks for visiting my profile!
 
 </div>
-```
