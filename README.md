@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)
+[![Resume](https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Monalika04/MyResume.git)
 
 </div>
 
