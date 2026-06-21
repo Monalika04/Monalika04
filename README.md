@@ -9,7 +9,7 @@
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
-📍 Mumbai, India • 🎓 B.E. Computer Engineering (CGPA: 8.02) • 🌐 Open to Data Analyst Roles
+📍 Mumbai, India • 🎓 B.E. Computer Engineering • 🌐 Open to Data Analyst Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monalikapingale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monalikapingale480@gmail.com)
